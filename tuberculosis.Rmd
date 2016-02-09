@@ -1,0 +1,10 @@
+---
+title: "tuberculosis"
+author: "Yadu"
+date: "February 9, 2016"
+output: html_document
+---
+
+```{r}
+rates = read.csv(file = "/Users/chittampalliyashaswini/Desktop/Yadu/rates.csv", header = TRUE, sep = ",")
+```
